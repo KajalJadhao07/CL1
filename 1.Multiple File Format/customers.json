@@ -1,0 +1,45 @@
+[
+  {
+    "customer_id": 1,
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "age": 29,
+    "country": "USA",
+    "purchase_history": [
+      {"item": "Laptop", "amount": 1200.50, "date": "2025-01-15"},
+      {"item": "Headphones", "amount": 99.99, "date": "2025-03-21"}
+    ]
+  },
+  {
+    "customer_id": 2,
+    "name": "Rahul Mehta",
+    "email": "rahul.mehta@example.com",
+    "age": 34,
+    "country": "India",
+    "purchase_history": [
+      {"item": "Smartphone", "amount": 850.00, "date": "2025-02-10"},
+      {"item": "Charger", "amount": 25.00, "date": "2025-02-18"}
+    ]
+  },
+  {
+    "customer_id": 3,
+    "name": "Emma Smith",
+    "email": "emma.smith@example.com",
+    "age": 41,
+    "country": "UK",
+    "purchase_history": [
+      {"item": "Camera", "amount": 600.00, "date": "2025-04-05"}
+    ]
+  },
+  {
+    "customer_id": 4,
+    "name": "Carlos Diaz",
+    "email": "carlos.diaz@example.com",
+    "age": 27,
+    "country": "Mexico",
+    "purchase_history": [
+      {"item": "Tablet", "amount": 450.00, "date": "2025-05-12"},
+      {"item": "Keyboard", "amount": 70.00, "date": "2025-05-14"}
+    ]
+  }
+]
